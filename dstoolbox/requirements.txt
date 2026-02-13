@@ -1,0 +1,6 @@
+mcp[cli]
+pycaret[full]
+pandas
+psutil
+uvicorn
+fastmcp
