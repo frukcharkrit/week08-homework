@@ -75,4 +75,4 @@ class_weight=None: นี่คือสาเหตุหนึ่งที่ 
 solver='lbfgs': อัลกอริทึมมาตรฐานสำหรับการหาคำตอบ
 
 **ผลลัพธ์การใช้งาน mcp-server**
-![mcp-server](images/mcp-server.png)
+![mcp-server](images/mcp-server.PNG)
